@@ -5,8 +5,8 @@ const app = new Vue({
     el: '#liveCounter',
 
     data: {
-        access_token: '',
-        post_id: '',
+        access_token: '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',
+        post_id: 'pfbid02acaRJFPQN3qMieCWxHNkJevttXNKMEpYpWW6djwTRhTBzq7gdx6FtVKVdDn6wD6gl',
         reaction_counts: {
             angry: 0,
             haha: 0,
